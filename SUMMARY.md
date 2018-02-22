@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Node and npm](node-npm.md)
 * [Express](express.md)
   * [Create a new app](new-app.md)
